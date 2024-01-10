@@ -9,7 +9,7 @@ canvas=tk.Tk()
 canvas.title("Music Player")
 canvas.geometry("620x820")
 canvas.config(bg='black')
-rootpath='E:\\Music'
+rootpath='Music'
 pattern='*.mp3'
 
 mixer.init()
